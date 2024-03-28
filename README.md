@@ -1,0 +1,3 @@
+# Requêtes-SQL
+
+Ce repo a pour but de mettre en avant différentes requêtes SQL tel que la création de tables, l'insertion,etc...
